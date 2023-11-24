@@ -1,0 +1,11 @@
+nav{
+    background-color: #34ADFF;
+    background-image: -webkit-linear-gradient(150deg, #a8d6f4 85%, #FFF 35%);
+    
+  }
+
+  @media (max-width: 768px) {
+    .navbar {
+      display: none;
+    }
+  }
